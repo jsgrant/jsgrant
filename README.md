@@ -4,7 +4,7 @@ Hey fellers & fellas, Grant here & welcome to my Github! The scope of this accou
 
 ### PRESENCE
 
-[Github](https://github.com/jsgrant), [Twitter](https://twitter.com/jsg_dev), [Youtube](https://www.youtube.com/channel/UCCSmzXaiDjm0RcL8OVHZ74w), [Odysee](https://odysee.com/@jsgrant), [Glimesh](glimesh.tv/jsgrant), [OpenGameArt](https://opengameart.org/users/jsgrant), [Blendswap](https://blendswap.com/profile), [Artstation](https://www.artstation.com/jsgrant), [Itch.io](https://jsgrant.itch.io/), [Patreon](https://patreon.com/jsgrant)
+[Github](https://github.com/jsgrant), [Mastodon](https://mastodon.technology/@jsgrant), [Odysee](https://odysee.com/@jsgrant), [Glimesh](glimesh.tv/jsgrant), [ArtStation](https://www.artstation.com/jsgrant), [OpenGameArt](https://opengameart.org/users/jsgrant), [Blendswap](https://blendswap.com/809718), [Itch.io](https://jsgrant.itch.io/), [Patreon](https://patreon.com/jsgrant)
 
 ### INTERESTS
 Conversational-Programming, Live Redefinition, Extensible Syntax, Forgotten Magic, Game-Engines, AR/VR Interfaces.
