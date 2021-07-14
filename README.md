@@ -1,6 +1,6 @@
 #  JOSHUA S. GRANT (JSGRANT)
 ### DESCRIPTION
-Hey fellers & fellas, Grant here & welcome to my Github! The scope of this account has changed a lot during the past year or-so -- like many, the events of the 2020-2021 COVID-19 Pandemic has caused me to [reevalutate my life]() in some nontrivial ways. This profile has become the manifestation of that lingering affect and the promises to not take myself so seriously; To 'persue my bliss' and all other platitudes that may apply. This means spending time on things I **actually** care about, whether I expect them to bare fruit or not. 
+Hey fellers & fellas, Grant here & welcome to my Github! The scope of this account has changed a lot during the past year or-so -- like many, the events of the 2020-2021 COVID-19 Pandemic has caused me to [reevalutate my life](https://jsgrant.github.io/foreword-on-moving-forwards/) in some nontrivial ways. This profile has become the manifestation of that lingering affect and the promises to not take myself so seriously; To 'persue my bliss' and all other platitudes that may apply. This means spending time on things I **actually** care about, whether I expect them to bare fruit or not. 
 
 ### PRESENCE
 
@@ -30,7 +30,7 @@ All-in on [Racket](https://racket-lang.org/) (and related educational materials)
 
 ### BLOG
 https://jsgrant.github.io
-- Featured : [The Foreword On Moving Forwards.]()
+- Featured : [The Foreword On Moving Forwards.](https://jsgrant.github.io/foreword-on-moving-forwards/)
 - Latest : [This Is A Test; This Is Mostly A Test.]()
 
 ### ACCESS GRANT'D
